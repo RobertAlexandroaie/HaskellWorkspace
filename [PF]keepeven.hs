@@ -1,0 +1,1 @@
+pastreazapar = filter (\x -> (mod x 2 )==0)
